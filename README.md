@@ -8,6 +8,6 @@
 - 🔭 I’m currently working on quantum many body dynamics simulated by quantum computer.
 - 🌱 I’m currently learning quantum machine learning and quantum many body dynamics.
 - 👯 I’m looking to collaborate on quantum many body simulation, quantum machine learning.
-- 💬 Ask me about quantum computer
+- 💬 Ask me about quantum computer and quantum many body dynamics.
 - 📫 How to reach me: https://www.linkedin.com/in/i-chi-chen-319187182/
 
